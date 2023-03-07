@@ -1,6 +1,6 @@
 👋 Hi, I’m @GiovanniColonni and Welcome to my personal page!
 
-I am a full-stack engineer with a passion for the emerging world of web3. With a background in backend engineering for an NFT marketplace startup, I have hands-on experience building decentralized applications and working with blockchain technologies.
+I am a backend engineer with a passion for the emerging world of web3. With a background in backend engineering for an NFT marketplace startup, I have hands-on experience building decentralized applications and working with blockchain technologies.
 
 During my time at the startup, I gained a deep understanding of the intricacies involved in building a reliable and scalable backend infrastructure. I worked closely with the frontend team to ensure seamless user experiences, and collaborated with designers and product managers to build features that met user needs.
 
