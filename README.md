@@ -1,4 +1,5 @@
-👋 Hi, I’m @GiovanniColonni and Welcome to my personal page!
+
+
 
 I am a backend engineer with a passion for the emerging world of web3. With a background in backend engineering for an NFT marketplace startup, I have hands-on experience building decentralized applications and working with blockchain technologies.
 
@@ -10,4 +11,12 @@ As a self-motivated and curious individual, I am always eager to learn and stay 
 
 Thank you for taking the time to read my profile. I look forward to discussing how my skills and experience can contribute to your team.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GiovanniColonni)](https://github.com/anuraghazra/github-readme-stats)
+# My GitHub Stats
+
+Those are just the statistics of my github public profile:
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GiovanniColonni&show_icons=true&bg_color=00000000)
+
+And my Languages are:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanniColonni)](https://github.com/anuraghazra/github-readme-stats)
