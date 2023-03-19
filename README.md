@@ -9,7 +9,5 @@ In addition to my experience in backend engineering, I have also worked extensiv
 As a self-motivated and curious individual, I am always eager to learn and stay up-to-date with the latest developments in the web3 world. I am excited about the potential of blockchain technologies to transform industries and am committed to building products that make a real difference.
 
 Thank you for taking the time to read my profile. I look forward to discussing how my skills and experience can contribute to your team.
-<!---
-GiovanniColonni/GiovanniColonni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GiovanniColonni)](https://github.com/anuraghazra/github-readme-stats)
