@@ -1,7 +1,12 @@
 
 ![Top](./githome.jpg)
 
-ABOUT ME OR SOMETHING
+TODO 
+1. ABOUT ME OR SOMETHING
+2. Ordine sezioni
+3. contatti cliccabili
+
+links for badges: https://github.com/topics/badges-markdown
 
 # Techs
 
@@ -48,7 +53,8 @@ TODO maybe use this https://github.com/yogeshwaran01/github-stats-terminal-style
 
 |Project|Link|Repo|Description|
 |----|----|----|----|
-
+|Web3 Full Stack application|||I built this application in collaboration with a friend that wrote the contracts, This is a fully-working web3 which goal is to create a market for fouding in which an admin ....|
+|Game Of Life|||By using React and following the idea ...|
 
 
 ---
