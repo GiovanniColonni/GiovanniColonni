@@ -49,14 +49,15 @@ TODO maybe use this https://github.com/yogeshwaran01/github-stats-terminal-style
 |----------|----------|
 
 
-# Some Projects I Can Show You
+# Extra Projects
 
-|Project|Link|Repo|Description|
+|Project|Demo|Repo|Description|
 |----|----|----|----|
-|Web3 Full Stack application|||I built this application in collaboration with a friend that wrote the contracts, This is a fully-working web3 which goal is to create a market for fouding in which an admin ....|
-|Game Of Life|||By using React and following the idea ...|
+|Web3 Full Stack application||[crowdfunding-web3](https://github.com/GiovanniColonni/crowdfunding-web3)|I built this application in collaboration with a friend that wrote the contracts, This is a fully-working web3 which goal is to create a market for fouding in which an admin ....|
+|Game Of Life||[Game of Life](https://github.com/GiovanniColonni/GameOfLife)|By using React and following the idea ...|
 
-
+MORE SPACES HERE 
 ---
+ADD ALSO statistics
 > P.S.  
 > The badges you see in this page are from this [project](https://github.com/Ileriayo/markdown-badges) thank you very much for them.
