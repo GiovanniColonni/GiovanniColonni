@@ -55,9 +55,12 @@ TODO maybe use this https://github.com/yogeshwaran01/github-stats-terminal-style
 |----|----|----|----|
 |Web3 Full Stack application||[crowdfunding-web3](https://github.com/GiovanniColonni/crowdfunding-web3)|I built this application in collaboration with a friend that wrote the contracts, This is a fully-working web3 which goal is to create a market for fouding in which an admin ....|
 |Game Of Life||[Game of Life](https://github.com/GiovanniColonni/GameOfLife)|By using React and following the idea ...|
+|One time only with Go|||This is a replica of |
 
-MORE SPACES HERE 
+
 ---
-ADD ALSO statistics
+ADD ALSO statistics etc..
+MORE SPACES HERE rt the above
+
 > P.S.  
 > The badges you see in this page are from this [project](https://github.com/Ileriayo/markdown-badges) thank you very much for them.
