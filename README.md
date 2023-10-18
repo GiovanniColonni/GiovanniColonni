@@ -33,7 +33,7 @@ Some of the tools that I use every day or I used in the past.
 
 ### Contacts
 
-ps: you can click on them ! 
+Just click on them to contact me  
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giovacolo97@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovanni-colonni-717a68173/)
@@ -43,7 +43,6 @@ ps: you can click on them !
 
 # Some Statistics 
 
-TODO maybe use this https://github.com/yogeshwaran01/github-stats-terminal-style
 
 | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanniColonni)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanniColonni&layout=compact)](https://github.com/anuraghazra/github-readme-stats) | 
 |----------|----------|
