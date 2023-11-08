@@ -1,6 +1,19 @@
 
 ![Top](./githome.jpg)
 
+<h1 align="center">About Me</h1>
+
+## FullStack Dev
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,gcp,mui,docker,express,firebase,github,mysql,nodejs,postman,react,ts&perline=5" />
+  </a>
+</p>
+
+## DevOps
+
+
 
 <h1 align="center">☎️ Reach me  ☎️</h1>
 <div>
@@ -29,17 +42,11 @@
   </samp>
 </div>
 
-# Techs
-
-## FullStack Dev
 
 
 
-## DevOps
+<h1 align="center">🛠️ Here you have a more exaustive list of technologies I know</h1>
 
-
-
-# Here you have a more exaustive list of technologies I know 
 ## My Setup, Personal and Professional
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
