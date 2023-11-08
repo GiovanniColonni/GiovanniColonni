@@ -1,17 +1,45 @@
 
 ![Top](./githome.jpg)
-## Some links if you want to contact me
 
-Just click on them to be redirected to the page.  
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giovacolo97@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovanni-colonni-717a68173/)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](tg://user?id=C0l0s11)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/393314158926)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)]( discordapp.com/users/692842006568763413)
+<h1 align="center">☎️ Reach me  ☎️</h1>
+<div>
+  <samp>
+    <p align="center">
+      <br/>
+      <a href="https://www.linkedin.com/in/giovanni-colonni-717a68173/" target="blank"><img align="center"
+         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+         alt="azzar" height="30"/></a>
+      <a href="mailto:giovacolo97@gmail.com" target="blank"><img align="center"
+         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
+         alt="azzar" height="30"/></a>
+    </p>
+  <p align="center">
+      <a href="https://wa.me/+393314158926" target="blank"><img align="center"
+         src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
+         alt="azzar" height="30"/></a>
+         <a href="tg://user?id=C0l0s11" target="blank"><img align="center"
+         src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"
+         alt="azzar" height="30"/></a>
+         <a href="discordapp.com/users/692842006568763413" target="blank"><img align="center"
+         src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"
+         alt="azzar" height="30"/></a>
+      <br>
+    </p>
+  </samp>
+</div>
 
 # Techs
 
+## FullStack Dev
+
+
+
+## DevOps
+
+
+
+# Here you have a more exaustive list of technologies I know 
 ## My Setup, Personal and Professional
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -96,12 +124,6 @@ Just click on them to be redirected to the page.
 ![raspberry](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![md](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-# Some Statistics 
-
-
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanniColonni)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanniColonni&layout=compact)](https://github.com/anuraghazra/github-readme-stats) | 
-|----------|----------|
-
 
 > P.S.  
 > The badges you see in this page are from this [project](https://github.com/Ileriayo/markdown-badges) and the statistics from [this other one](https://github.com/Hard-Coder05/github-readme-stats-1/blob/master/readme.md) thank you very much for them.
