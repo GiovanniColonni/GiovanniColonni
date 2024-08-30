@@ -132,5 +132,8 @@
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![md](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
+### Contributions I made
+1. [DigitalOcean Terraform Adapter - Added support for opensearch configuration on log_destination block #1200](https://github.com/digitalocean/terraform-provider-digitalocean/pull/1200)
+
 > P.S.  
 > The badges you see in this page are from this [project](https://github.com/Ileriayo/markdown-badges) and the statistics from [this other one](https://github.com/Hard-Coder05/github-readme-stats-1/blob/master/readme.md) thank you very much for them.
