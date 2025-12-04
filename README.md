@@ -1,19 +1,132 @@
-
 ![Top](./githome.jpg)
 
-<h1 align="center">About Me</h1>
+## 📱 App Gallery
 
-## FullStack Dev
+<p align="center">
+  <samp>Some of the apps I've built and published (React Native + Expo) </samp>
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="./icon_sudoku.png" alt="Gesca Clienti" width="120" style="border-radius: 24px;" />
+      <h3>Sudoku</h3>
+      <p>
+        Sudoku game i created cause all the other apps have ads unless you pay  
+      </p>
+      <p>
+        <!-- App Store -->
+        <a href="https://apps.apple.com/it/app/sudoku-le-jeu/id6755183055" target="_blank">
+          <img 
+            src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" 
+            alt="Download on the App Store" 
+            height="40"
+            width="85"
+          />
+        </a>
+        <!-- Google Play -->
+        <a href="https://play.google.com/store/apps/details?id=com.infoteldev.sudoku" target="_blank">
+          <img 
+            src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" 
+            alt="Get it on Google Play" 
+            height="40"
+          />
+        </a>
+      </p>
+    </td>
+    <td align="center" width="50%">
+      <img src="./icon_clienti.png" alt="Gesca Clienti" width="120" style="border-radius: 24px;" />
+      <h3>Gesca Clienti</h3>
+      <p>
+        Personalized app for a managment system 
+      </p>
+      <p>
+        <!-- App Store -->
+        <a href="https://apps.apple.com/it/app/gescaclienti/id6754207001" target="_blank">
+          <img 
+            src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" 
+            alt="Download on the App Store" 
+            height="40"
+            width="85"
+          />
+        </a>
+        <!-- Google Play -->
+        <a href="https://play.google.com/store/apps/details?id=com.gesca.gescaclienti" target="_blank">
+          <img 
+            src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" 
+            alt="Get it on Google Play" 
+            height="40"
+            width="85"
+          />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+<td align="center" width="50%">
+      <img src="./icon_camera.png" alt="Gesca Clienti" width="120" style="border-radius: 24px;" />
+      <h3>Gesca Camera</h3>
+      <p>
+     Personalized app for warehouse managment of products
+      </p>
+      <p>
+        <!-- App Store -->
+        <a href="https://apps.apple.com/it/app/gesca-camera/id6741393950" target="_blank">
+          <img 
+            src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" 
+            alt="Download on the App Store" 
+            height="40"
+            width="85"
+          />
+        </a>
+        <!-- Google Play -->
+        <a href="https://play.google.com/store/apps/details?id=com.infoteldev.gescacamera" target="_blank">
+          <img 
+            src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" 
+            alt="Get it on Google Play" 
+            height="40"
+          />
+        </a>
+      </p>
+    </td>
+    <td align="center" width="50%">
+      <img src="./icon_scanner.png" alt="Gesca Clienti" width="120" style="border-radius: 24px;" />
+      <h3>Gesca Scanner</h3>
+      <p>
+        Personalized app for warehouse managment and barcode scanners
+      </p>
+      <p>
+        <!-- App Store -->
+        <a href="https://apps.apple.com/it/app/gesca-scanner/id6630378274" target="_blank">
+          <img 
+            src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" 
+            alt="Download on the App Store" 
+            height="40"
+            width="85"
+          />
+        </a>
+        <!-- Google Play -->
+        <a href="https://play.google.com/store/apps/details?id=com.anonymous.gescascanner" target="_blank">
+          <img 
+            src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" 
+            alt="Get it on Google Play" 
+            height="40"
+          />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<!-- If you have more apps, add another <tr> with two more <td> blocks -->
+
+<h1 align="center">Techs I</h1>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,gcp,mui,docker,express,firebase,github,mysql,nodejs,postman,react,ts&perline=5" />
+    <img src="https://skillicons.dev/icons?i=git,gcp,mui,docker,express,firebase,github,mysql,nodejs,postman,react,ts,jest,vite&perline=4" />
   </a>
 </p>
-
-## DevOps
-
-
 
 <h1 align="center">☎️ Reach me  ☎️</h1>
 <div>
@@ -42,47 +155,49 @@
   </samp>
 </div>
 
-
-
-
 <h1 align="center">🛠️ Here you have a more exaustive list of technologies I know</h1>
 
 ## My Setup, Personal and Professional
+
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Alpine](https://img.shields.io/badge/Alpine_Linux-0D597F?style=for-the-badge&logo=alpine-linux&logoColor=white)
 
 ## Languages I know
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white)
 
-## Databases 
+## Databases
 
 ### SQL
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![lite](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### NoSQL
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) 
+
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Others
-![PlanetScale](https://img.shields.io/badge/planetscale-%23000000.svg?style=for-the-badge&logo=planetscale&logoColor=white)
-
-
 ## Frameworks and Tools
+
 ### Frontend
+
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) :heart_eyes:
 ![router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![mui](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 
+### The mobile apps I published
+
 ### Backend
+
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-  ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)    ![Fastify](https://img.shields.io/badge/fastify-202020?style=for-the-badge&logo=fastify&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Fastify](https://img.shields.io/badge/fastify-202020?style=for-the-badge&logo=fastify&logoColor=white)
 ![node](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ### Others
+
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
@@ -96,15 +211,10 @@
 ![webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white)
 ![ts-node](https://img.shields.io/badge/ts--node-3178C6?style=for-the-badge&logo=ts-node&logoColor=white)
 
-### Public Cloud / Deployment solutions
-
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
-### WEB3 
+### WEB3
 
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
-![GithubActions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) 
 
 ## DevOps
 
@@ -115,24 +225,35 @@
 ![docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GithubActions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
- ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)   ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=Helm&labelColor=0F1689) 
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=Helm&labelColor=0F1689)
 ![Argocd](https://img.shields.io/badge/Argo%20CD-1e0b3e?style=for-the-badge&logo=argo&logoColor=#d16044)
 ![k8s](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
 
+### Public Cloud / Deployment solutions
+
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/digitalocean-%23000000.svg?style=for-the-badge&logo=digitalocean&logoColor=white)
+
 ### Organization tools, for Agile and Project Managment
+
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![todoist](https://img.shields.io/badge/Todoist-E44332?style=for-the-badge&logo=todoist&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ### Some other tools/platforms I use
-![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)  ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![SO](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 ![raspberry](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![md](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 ### Contributions I made
+
 1. [DigitalOcean Terraform Adapter - Added support for opensearch configuration on log_destination block #1200](https://github.com/digitalocean/terraform-provider-digitalocean/pull/1200)
 
 > P.S.  
