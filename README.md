@@ -120,7 +120,7 @@
 
 <!-- If you have more apps, add another <tr> with two more <td> blocks -->
 
-<h1 align="center">Techs I</h1>
+<h1 align="center">Techs</h1>
 
 <p align="center">
   <a href="https://skillicons.dev">
